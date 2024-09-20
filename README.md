@@ -29,5 +29,5 @@ Ray tracing is a rendering technique that simulates light paths to create high-q
 ### Project N-6: Animations
 In this project, various animation techniques are applied to create smooth movements in graphics. Keyframing, interpolation, and timing functions are used to animate objects in real time.
 
-###Usage
+### Usage
 Each project is self-contained and can be run independently. Refer to the individual project folders for more detailed instructions.
